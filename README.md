@@ -1,4 +1,4 @@
-# BookSphere
+# BookSphere [Video demo](https://youtu.be/H0M6DgKs4uQ)
 
 This project is a desktop application developed in QT and C++ serving as a management system for libraries. It allows administrators to perform various tasks, such as searching for books in the library, managing users, administering the book inventory, and keeping track of loans.
 
