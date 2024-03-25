@@ -72,3 +72,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any questions or suggestions, you can contact the developer at [polc394@gmail.com](mailto:polc394@gmail.com).
+
+## Demo video
+[![Demo Video](demo-thumbnail.jpg)](demo.mov)
