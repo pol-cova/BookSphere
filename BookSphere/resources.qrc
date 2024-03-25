@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>ReadingDoodle.png</file>
+        <file>ReadingIMG.png</file>
+        <file>books.png</file>
+        <file>file-text.svg</file>
+        <file>home.svg</file>
+        <file>repeat.svg</file>
+        <file>users.svg</file>
+        <file>file-text2.svg</file>
+        <file>home2.svg</file>
+        <file>repeat2.svg</file>
+        <file>users2.svg</file>
+    </qresource>
+</RCC>
